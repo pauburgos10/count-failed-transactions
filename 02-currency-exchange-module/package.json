@@ -1,6 +1,6 @@
 {
   "name": "currency-conversion-paula",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "currency conversion utility",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pauburgos10/Nodejs-Incluit-Training/tree/master/02-currency-exchange-module"
+    "url": "https://github.com/pauburgos10/Nodejs-Incluit-Training/tree/master/02-currency-exchange-module"
   },
   "keywords": [
     "currency",
     "exchange"
   ],
   "author": "Paula Burgos",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.0"
   }
