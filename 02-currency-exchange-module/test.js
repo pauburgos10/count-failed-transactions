@@ -6,8 +6,8 @@ var options = {
   amount: '10'
 };
 
-(async function f () {
-  const result = await exchange(options);
-  console.log(result);
-})();
+exchange(options)
+  .then(res => console.log(res))
+  .catch(err => console.log(err));
+
   
