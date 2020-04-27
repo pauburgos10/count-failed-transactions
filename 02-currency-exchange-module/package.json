@@ -6,8 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauburgos10/Nodejs-Incluit-Training/tree/master/02-currency-exchange-module"
+  },
   "keywords": [
-    "currency"
+    "currency",
+    "exchange"
   ],
   "author": "Paula Burgos",
   "license": "ISC",

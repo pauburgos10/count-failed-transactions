@@ -24,7 +24,7 @@ var options = {
   amount: '10'
 };
 
-convertCurrency.getExchangeRates(options)
+convertCurrency(options)
   .then(res => console.log(res))
   .catch(err => console.log(err));
 
