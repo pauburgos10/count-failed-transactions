@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 async function getExchangeRates(options) {
 
   var base = 'https://www.amdoren.com/api/currency.php?api_key=';
-  var apiKey = 'cepDXjzmkRjsrw8crsYMprN2inPSrj';
+  var apiKey = 'BnQapFpshPsKcHcGU3duxbpzCNKeK6';
 
   var optionsText = '';
 
