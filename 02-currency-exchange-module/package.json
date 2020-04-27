@@ -1,0 +1,17 @@
+{
+  "name": "currency-conversion-paula",
+  "version": "1.0.0",
+  "description": "currency conversion utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency"
+  ],
+  "author": "Paula Burgos",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
